@@ -1,0 +1,10 @@
+2023-08-06 06:41:41.235090 - Initialized conversion of CBT718
+2023-08-06 06:41:41.289321 - Received CBT.V505.FILE718.PDS from FILE718.XMI 
+2023-08-06 06:41:41.291660 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE718.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:41:41.292775 - Found $README.txt (text/plain) in CBT.V505.FILE718.PDS, moved to PDS/$README
+2023-08-06 06:41:41.293732 - Found @FILE718.txt (text/plain) in CBT.V505.FILE718.PDS, moved to PDS/@FILE718
+2023-08-06 06:41:41.294731 - Found ENTER.txt (text/plain) in CBT.V505.FILE718.PDS, moved to PDS/ENTER
+2023-08-06 06:41:41.295649 - Found IKJEFLD1.txt (text/plain) in CBT.V505.FILE718.PDS, moved to PDS/IKJEFLD1
+2023-08-06 06:41:41.296591 - Found IKJEFLD2.txt (text/plain) in CBT.V505.FILE718.PDS, moved to PDS/IKJEFLD2
+2023-08-06 06:41:41.302362 - Found LOADLIB.xmi (application/xmit) in CBT.V505.FILE718.PDS
+2023-08-06 06:41:41.308814   - Received RECFM=U data, stored XMIT file as CBT718/LOADLIB.xmi
